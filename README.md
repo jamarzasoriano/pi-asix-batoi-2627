@@ -1,4 +1,4 @@
-# pi-asix-batoi-2627
+# pi-asix-batoi-2627 (rama 2)
 
 Este es mi primer proyecto en **GitHub**.
 
